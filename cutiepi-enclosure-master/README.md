@@ -1,5 +1,8 @@
 ## Enclosure Design for CutiePi tablet
 
+![image](https://github.com/TechnophileOG/TechnoCore/assets/159568704/78bbc4ab-fccc-4bb1-8661-649f91a1ec3c)
+
+
 This repository hosts CutiePi tablet related enclosure designs, consisting 3D printable STL files and editable STEP files for the final injection mold design. 
 
 ![](rendering/CutiePi-rendering.png) 
